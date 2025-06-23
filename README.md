@@ -6,7 +6,7 @@ A simple **console application for tracking personal gym records** in three disc
 
 ### Description
 
-The program offers users **three main functions:**
+The program offers user **three main functions:**
 
 - Add records  
 - Display records (sorted in descending order by weight)  
