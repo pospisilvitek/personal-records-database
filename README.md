@@ -1,4 +1,4 @@
-### 🦾 Personal records database
+### Personal records database
 
 A simple **console application for tracking personal gym records** in three disciplines: bench press, deadlift and squat.
 
